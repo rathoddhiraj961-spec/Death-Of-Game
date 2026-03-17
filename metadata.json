@@ -1,0 +1,5 @@
+{
+  "name": "Retro Neon Snake",
+  "description": "A high-fidelity Snake game with CRT effects, rare golden apples, and progressive difficulty.",
+  "requestFramePermissions": []
+}
